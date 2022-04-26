@@ -1,5 +1,7 @@
 # README
 
+[Thanks to the solution provided here](https://github.com/rails/rails/issues/32894#issuecomment-998293468)
+
 This is a demo application to enable activestorage in a rails 5 api-only application, and enable/disable
 object key prefix, ie, having folders in the same bucket rather than uploading all the assets to the root bucket.
 
